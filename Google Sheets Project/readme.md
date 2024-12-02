@@ -1,7 +1,7 @@
 ## Project Objectives
 In this project, we’ll investigate access to safe and affordable drinking water focussing on inequalities in services levels between different countries and regions.
 
-# There are two parts to this integrated project. You need to import and clean data, create new features and visualisations, interpret the results, and answer the multiple-choice questions.
+## There are two parts to this integrated project. You need to import and clean data, create new features and visualisations, interpret the results, and answer the multiple-choice questions.
 
 ## In part one, we’ll answer questions like:
 - How do the world population estimates compare to the provided dataset populations?
