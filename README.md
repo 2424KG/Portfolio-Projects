@@ -19,4 +19,4 @@ The project uses the following tables:
 ## Key Features
 1.	Project Tracking: Automatically updates improvement recommendations based on water quality results and queue times.
 2.	Employee Performance: Monitors employee performance by tracking discrepancies between auditor and surveyor assessments.
-3.	Infrastructure Recommendations: Generates specific infrastructure improvement actions based on data (e.g., installing add
+3.	Infrastructure Recommendations: Generates specific infrastructure improvement actions based on data (e.g., installing additional taps for long queues).
