@@ -3,10 +3,10 @@ This project focuses on analyzing water quality and infrastructure
 
 ## Project Overview
 The analysis is centered on:
-•	Evaluating water sources based on pollution results
-•	Identifying infrastructure needs for various water source types
-•	Tracking employee data to assess improvement efforts
-•	Generating recommendations for improvement (e.g., installing filters, diagnosing infrastructure issues, etc.)
+Evaluating water sources based on pollution results
+Identifying infrastructure needs for various water source types
+Tracking employee data to assess improvement efforts	
+Generating recommendations for improvement (e.g., installing filters, diagnosing infrastructure issues, etc.)
 
 ## Database Structure
 The project uses the following tables:
