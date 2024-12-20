@@ -1,1 +1,1 @@
-
+In this final part of the project, we finalise our data analysis using the full suite of SQL tools. We will gain our final insights, use these to classify water sources, and prepare relevant data for our engineering teams.
