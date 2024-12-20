@@ -1,1 +1,1 @@
-
+In this third part of the integrated project, we finalise our national survey report. We will use DAX to create measures and columns to enrich our data to ensure accurate and useful data representation on the dashboard. We put together all we have learned in the module to create the survey report.
