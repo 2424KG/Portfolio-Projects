@@ -1,1 +1,1 @@
-
+In this first part of the integrated project, we dive into Maji Ndogo's expansive database containing 60,000 records spread across various tables. As we navigate this trove of data, we'll use basic queries to familiarise ourselves with the content of each table. Along the way, we'll also refine some data using DML.
